@@ -19,7 +19,7 @@
 
 📧 How to reach me **shaniesha.john.94@gmail.com**
 
-🚴🏽‍♀️ Outside of the technology world I enjoy **biking**, **gardening**, & **reading books** 
+🚴🏽‍♀️ Outside of the technology world I enjoy **biking**, **gardening**, **reading books** & **invest**
 
 ✨ Fun fact: I am a foodie at 💖 with addition to 🧋 & ☕
 
