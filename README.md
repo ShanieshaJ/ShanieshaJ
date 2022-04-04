@@ -3,7 +3,7 @@
 
 🎓 Graduated with Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **JavaJam website (Started) and taking React Bootcamp at SheCodes (Half way done)**
+🔭 I’m currently working on **JavaJam website and taking React Bootcamp at SheCodes (Half way done)**
 
 🌱 I’m currently learning **React & SASS**
 
