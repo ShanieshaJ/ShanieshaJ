@@ -15,7 +15,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/ShanieshaJ](https://github.com/ShanieshaJ)
 
-💬 Ask me about **HTML/CSS and JavaScript**
+💬 Ask me about **HTML/CSS, JavaScript & React**
 
 📧 How to reach me **shaniesha.john.94@gmail.com**
 
