@@ -3,19 +3,13 @@
 
 🎓 Graduated with Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **JavaJam website (soon starting) and finishing React Bootcamp at SheCodes (Half way done)**
+🔭 I’m currently working on **SheCodes monthly challenge**
 
-🌱 I’m currently learning to improve on **HTML/CSS, JavaScript, & React**
+🌱 I’m currently learning to improve on **JavaScript, React, & Python**
 
-🎯 My goals are to learn more about **Web development** and learn Python
+🎯 My goals are to learn more about **Web development**, **buliding personal projects**, and **contribute to a open source project**
 
-👯 I’m looking to collaborate on **small web development projects**
-
-🤝 I’m looking for help with **JavaScript & React**
-
-👨‍💻 All of my projects are available at [https://github.com/ShanieshaJ](https://github.com/ShanieshaJ)
-
-💬 Ask me about **HTML/CSS, JavaScript & React**
+👯 I’m looking to collaborate on **small projects**
 
 📧 How to reach me **shaniesha.john.94@gmail.com**
 
