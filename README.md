@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Shaniesha John 👋🏽</h1>
+<h1 align="center">Hi, I'm Shaniesha John </h1>
 <h3 align="center">A passionate and creative aspiring frontend developer from Canada </h3>
 
 🎓 Graduated with Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **SheCodes monthly challenge**
+🔭 I’m currently working on **landing page for SheCodes monthly challenge**
 
 🌱 I’m currently learning to improve on **JavaScript, React, & Python**
 
@@ -13,7 +13,7 @@
 
 📧 How to reach me **shaniesha.john.94@gmail.com**
 
-🚴🏽‍♀️ Outside of the technology world I enjoy **biking**, **gardening**, **reading books** & **invest**
+🚴🏽‍♀️ Outside of the technology world I enjoy **gardening**, **biking**, **reading books** & **invest**
 
 ✨ Fun fact: I am a foodie at 💖 with addition to 🧋 & ☕
 
