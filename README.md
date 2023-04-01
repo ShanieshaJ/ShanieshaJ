@@ -7,11 +7,11 @@
 
 🌱 I’m currently learning to improve on **JavaScript, React, & Python**
 
-🎯 My goals are to learn more about **Web development**, **buliding personal projects**, and **contribute to a open source project**
+🎯 My goals are to learn more about **web development**, **buliding personal projects**, and **contribute to a open source project**
 
 👯 I’m looking to collaborate on **small projects**
 
-📧 How to reach me **shaniesha.john.94@gmail.com**
+📧 How to reach me at **shaniesha.john.94@gmail.com**
 
 🚴🏽‍♀️ Outside of the technology world I enjoy **gardening**, **biking**, **reading books** & **invest**
 
