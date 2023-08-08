@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Shaniesha John </h1>
 <h3 align="center">A passionate and creative aspiring frontend developer from Canada </h3>
 
-🎓 Graduated with Computer Science Technology degree in 2019 
+🎓 Graduated with a Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **landing page for SheCodes monthly challenge**
+🔭 I’m currently working on **learning Python**
 
-🌱 I’m currently learning to improve on **JavaScript, React, & Python**
+🌱 I’m currently learning to improve on **JavaScript, & React**
 
-🎯 My goals are to learn more about **web development**, **buliding personal projects**, and **contribute to a open source project**
+🎯 My goals are to learn more about **frontend development (Gradually transition to full stack)**, **buliding personal projects**, and **contribute to a open source project**
 
 👯 I’m looking to collaborate on **small projects**
 
@@ -15,7 +15,7 @@
 
 🚴🏽‍♀️ Outside of the technology world I enjoy **gardening**, **biking**, **reading books** & **invest**
 
-✨ Fun fact: I am a foodie at 💖 with addition to 🧋 & ☕
+✨ Fun fact: I am a foodie at 💖 with an addiction to 🧋 & ☕
 
 <div align = "center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
