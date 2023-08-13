@@ -3,11 +3,11 @@
 
 🎓 Graduated with a Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **learning Python, starting Tailwind**
+🔭 I’m currently working on **learning Python and Tailwind (**starting soon**), contributing to an open-source project.**
 
 🌱 I’m currently learning to improve on **JavaScript, & React**
 
-🎯 My goals are to learn more about **frontend development (Gradually transition to full stack)**, **buliding personal projects**, and **contribute to a open source project**
+🎯 My goals are to learn more about **frontend development (Gradually transition to full stack)**, **buliding personal projects**, and **contribute to a open source projects**
 
 👯 I’m looking to collaborate on **small projects**
 
