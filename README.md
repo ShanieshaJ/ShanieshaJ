@@ -28,8 +28,6 @@
 <a href="https://twitter.com/shanieshajohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanieshajohn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaniesha-john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaniesha-john" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shaniesha.john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shaniesha.john" height="30" width="40" /></a>
-<a href="https://fb.com/shaniesha.john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaniesha.john" height="30" width="40" /></a>
-<a href="https://instagram.com/shaniesha_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaniesha_j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">✨ Languages and Tools:</h3>
