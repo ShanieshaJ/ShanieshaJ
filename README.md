@@ -3,7 +3,7 @@
 
 🎓 Graduated with a Computer Science Technology degree in 2019 
 
-🔭 I’m currently working on **learning Python and Tailwind (**starting soon**), contributing to an open-source project.**
+🔭 I’m currently working on **learning Python, Ruby, and PHP contributing to an open-source project.**
 
 🌱 I’m currently learning to improve on **JavaScript, & React**
 
