@@ -1,19 +1,17 @@
 <h1 align="center">Hi, I'm Shaniesha John </h1>
 <h3 align="center">A passionate and creative aspiring frontend developer from Canada </h3>
 
-🎓 Graduated with a Computer Science Technology degree in 2019 
+🔭 What I'm currently working on **Doing 100Devs to reskill and prepare for a potential web developer role.**
 
-🔭 I’m currently working on **learning Python, Ruby, PHP, and contributing to an open-source project.**
+🔎 What I want to learn more about **Python and how to use open source to gain practical experience in Web development.**
 
 🌱 I’m currently learning to improve on **JavaScript, & React**
 
-🎯 My goals are to learn more about **frontend development (Gradually transition to full stack)**, **buliding personal projects**, and **contribute to a open source projects**
+🎯 Things I need to look into gaining certification for web development and experience.
 
-👯 I’m looking to collaborate on **small projects**
+👯 I’m looking to collaborate on **group projects**
 
 📧 How to reach me at **shaniesha.john.94@gmail.com**
-
-🚴🏽‍♀️ Outside of the technology world I enjoy **gardening**, **biking**, **reading books** & **invest**
 
 ✨ Fun fact: I am a foodie at 💖 with an addiction to 🧋 & ☕
 
