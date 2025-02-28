@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Shaniesha John </h1>
-<h3 align="center">A passionate and creative aspiring frontend developer from Canada </h3>
+<h3 align="center">A passionate and creative developer from Canada </h3>
 
-🔭 What I'm currently working on **Doing 100Devs to reskill and prepare for a potential web developer role.**
+🔭 What I'm currently working on **Doing 100Devs to reskill programming lanuagages and potential freelance in the future**
 
-🔎 What I want to learn more about **Python and how to use open source to gain practical experience in Web development.**
+🔎 What I want to learn more about **Python and create personal projects**
 
-🌱 I’m currently learning to improve on **JavaScript, & React**
+🌱 I’m currently learning to improve on **Fundamentals of Java, and JavaScript**
 
-🎯 Things I need to look into gaining certification for web development and experience.
+🎯 **Goal**: going into the Software Engineering program at university.
 
-👯 I’m looking to collaborate on **group projects**
+👯 I’m looking to collaborate on **team group projects**
 
 📧 How to reach me at **shaniesha.john.94@gmail.com**
 
