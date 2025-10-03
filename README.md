@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm Shaniesha John </h1>
+<h1 align="center">Hi, I'm Shaniesha</h1>
 <h3 align="center">A passionate and creative developer from Canada </h3>
 
-🔭 What I'm currently working on **Doing 100Devs to reskill programming lanuagages and potential freelance in the future**
+🔭 What I'm currently working on **Networks+ on Professer Messer training on YouTube**
 
-🔎 What I want to learn more about **Python and create personal projects**
+🔎 What I want to learn more about **Linux, **
 
-🌱 I’m currently learning to improve on **Fundamentals of Java, and JavaScript**
+🌱 I’m currently relearning the **Fundamentals of Network**
 
-🎯 **Goal**: going into the Software Engineering program at university.
-
-👯 I’m looking to collaborate on **team group projects**
-
-📧 How to reach me at **shaniesha.john.94@gmail.com**
+🎯 **Goal**: Pivot into Cybersecuity 
 
 ✨ Fun fact: I am a foodie at 💖 with an addiction to 🧋 & ☕
 
@@ -23,7 +19,6 @@
 
 <h3 align="left">✨ Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shanieshajohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanieshajohn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaniesha-john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaniesha-john" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shaniesha.john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shaniesha.john" height="30" width="40" /></a>
 </p>
