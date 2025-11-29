@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Shaniesha</h1>
-<h3 align="center">A passionate and creative developer from Canada </h3>
 
 🔭 What I'm currently working on **Networks+ on Professer Messer training on YouTube**
 
-🔎 What I want to learn more about **Linux, **
-
 🌱 I’m currently relearning the **Fundamentals of Network**
 
-🎯 **Goal**: Pivot into Cybersecuity 
+🎯 **Goal**: Pivot to Tech 
 
 ✨ Fun fact: I am a foodie at 💖 with an addiction to 🧋 & ☕
 
